@@ -8,6 +8,9 @@ public class Program {
 		// TODO Auto-generated method stub
 		ChessMatch chessMatch = new ChessMatch();
 		UI.printBoard(chessMatch.getPieces());
+		
+		
+		
 	}
 
 }
